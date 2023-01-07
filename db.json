@@ -1,17 +1,10 @@
 {
-  "Noodles": {
-    "id": 1,
-    "price": 30,
-    "quantity": 1
-  },
-  "Biriyani": {
-    "id": 2,
-    "price": 90,
-    "quantity": 1
-  },
-  "Chips": {
-    "id": 2,
-    "price": 10,
-    "quantity": 1
-  }
+  "user": [
+    {
+      "name": 1,
+      "email": "a@a.com",
+      "pass": 1,
+      "task": []
+    }
+  ]
 }
